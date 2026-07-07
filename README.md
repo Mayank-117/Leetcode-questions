@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Mayank-117/Leetcode-questions/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/Mayank-117/Leetcode-questions/tree/master/0504-base-7) |
 ## String
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Mayank-117/Leetcode-questions/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/Mayank-117/Leetcode-questions/tree/master/0504-base-7) |
 ## Simulation
 |  |
 | ------- |
