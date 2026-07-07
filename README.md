@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/Mayank-117/Leetcode-questions/tree/master/1729-find-followers-count) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Mayank-117/Leetcode-questions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mayank-117/Leetcode-questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Mayank-117/Leetcode-questions/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Mayank-117/Leetcode-questions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Mayank-117/Leetcode-questions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
