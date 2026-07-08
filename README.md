@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Mayank-117/Leetcode-questions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Mayank-117/Leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Mayank-117/Leetcode-questions/tree/master/0504-base-7) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mayank-117/Leetcode-questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Mayank-117/Leetcode-questions/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Mayank-117/Leetcode-questions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
