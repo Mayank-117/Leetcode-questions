@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mayank-117/Leetcode-questions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Mayank-117/Leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Mayank-117/Leetcode-questions/tree/master/0504-base-7) |
+| [0509-fibonacci-number](https://github.com/Mayank-117/Leetcode-questions/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mayank-117/Leetcode-questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mayank-117/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mayank-117/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Mayank-117/Leetcode-questions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mayank-117/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayank-117/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mayank-117/Leetcode-questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mayank-117/Leetcode-questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
