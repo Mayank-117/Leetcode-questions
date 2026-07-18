@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Mayank-117/Leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Mayank-117/Leetcode-questions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Mayank-117/Leetcode-questions/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mayank-117/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mayank-117/Leetcode-questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Mayank-117/Leetcode-questions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Mayank-117/Leetcode-questions/tree/master/0136-single-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mayank-117/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mayank-117/Leetcode-questions/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mayank-117/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
